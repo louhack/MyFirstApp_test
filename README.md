@@ -1,2 +1,2 @@
 # MyFirstApp_test
-Android Development tests
+Android Development training
